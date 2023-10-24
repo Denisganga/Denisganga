@@ -1,7 +1,7 @@
 # 💫 About Me:
 
 <div align="center">
-<img src="https://github.com/Denisganga/Denisganga/blob/main/Capture1.PNG" align="center" style="width: 100%" />
+<img src="https://github.com/Denisganga/Denisganga/blob/main/Capture1.PNG" align="center" style="width: 100%" height="width: 50"/>
 </div>  
 I'm Denis Nganga , an AI enthusiast and web developer. I'm passionate about harnessing the power of deep learning using PyTorch and creating web applications with Django, HTML, and CSS.<br><br>- 🧠 Deep Learning: I'm deeply committed to the world of artificial intelligence, particularly deep learning. I love tackling complex problems and building intelligent systems with PyTorch.<br><br>- 🌐 Web Development: When I'm not immersed in AI, I'm crafting interactive web applications. I have experience working with Django and web technologies such as HTML and CSS.
 
