@@ -15,7 +15,7 @@ I'm Denis Nganga , an AI enthusiast and web developer. I'm passionate about harn
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Denisganga&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️  Dev Quote to keep you moving
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
