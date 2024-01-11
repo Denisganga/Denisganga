@@ -1,6 +1,6 @@
 # 💫 About Me:  
 I'm Denis Nganga , an AI enthusiast and web developer. I'm passionate about the power of deep learning using PyTorch and creating web applications with Django, HTML,CSS and JS.<br><br>- 🧠 Deep Learning: I'm deeply committed to the world of artificial intelligence, particularly deep learning. I love tackling real world problems and building intelligent systems with PyTorch.<br><br>- 🌐 Web Development: I have experience working with Django and web technologies such as HTML,  CSS and JS.
-you can view my portfolio here https://denisngangaportfolio.netlify.app
+you can view my personal portfolio https://denisngangaportfolio.netlify.app
 
 
 ## 🌐 Socials:
