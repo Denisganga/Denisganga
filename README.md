@@ -1,10 +1,14 @@
 # 💫 About Me:  
+
+
 Happiness😊!!
+
+
 How happy would you be if you see the world transforming due to the power of tech??, Imagine you being part of transforming the world.
 Isn't it sweet??
-As a developer Denis has fallen in love with the power of solving problems and being part of innovation. I'm passionate about the power of transforming lives through tech. I acquire skills in deep learning using PyTorch and creating web applications with Django, HTML,CSS and JS.
-you can view my personal portfolio ([here] (https://denisngangaportfolio.netlify.app))
-you can also reach me out through my emails at denisnganga16@gmail.com or even get in touch with me through social media platform i.e LinkedIn. 
+As a developer Denis, has fallen in love with the power of solving problems and being part of innovation. I'm passionate about the power of transforming lives through tech. I acquire skills in deep learning using PyTorch and creating web applications with Django, HTML,CSS and JS.
+you can view my personal portfolio [here] (https://denisngangaportfolio.netlify.app)
+you can also reach me out through my email at denisnganga16@gmail.com or even get in touch with me through social media platform i.e LinkedIn. 
 Lets join hands and make the world a better place through tech.
 
 ## 🌐 Socials:
