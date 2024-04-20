@@ -5,8 +5,9 @@
 <div align="centre">
  
 <p align="center">
-<picture><img src="./logo.webp" width = 45px align="center"></picture><b></b>
+  <img src="./logo.webp" width="45px" alt="Logo">
 </p>
+
 
 <div align="center" width="150">
   ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
