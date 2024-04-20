@@ -8,9 +8,6 @@
 <picture><img src="./img/about_me.gif" width = 45px align="center"></picture><b></b>
 </p>
 
-<div align="center" width="150">
-  ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
-</div>
 # 💫 About Me:
 Happiness😊!!<br><br><br>How happy would you be if you see the world transforming due to the power of tech??, Imagine you being part of transforming the world.<br>Isn't it sweet??<br>As a developer,I have fallen in love with the power of solving problems and being part of innovation. I'm passionate about the power of transforming lives through tech. I acquire skills in deep learning using PyTorch and creating web applications with Django. i also got a knowledge in containerized containers using docker<br>you can view my personal  [portfolio](https://denisngangaportfolio.netlify.app)<br>you can also reach me out through my [email](denisnganga16@gmail.com) or even get in touch with me through social media platform i.e [LinkedIn](https://www.linkedin.com/in/denis-nganga16) <br>Lets join hands and make the world a better place through tech. Thanks for visiting my profile.Dont forget to be part to connect with me
 
