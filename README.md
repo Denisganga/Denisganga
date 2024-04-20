@@ -1,6 +1,6 @@
 ![Welcome Image](welcome.png)
 
-### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I Denis Nganga,
+### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'M Denis Nganga,
 
 <div align="centre">
 <p align="center">
