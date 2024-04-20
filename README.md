@@ -3,7 +3,9 @@
 ### Hi there  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I Denis Nganga,
 
 <div align="centre">
-
+<p align="center">
+<picture><img src="./logo.webp" width = 45px align="center"></picture><b></b>
+</p>
 
 <div align="center" width="150">
   ----- <a href="#"><img src="https://media.giphy.com/media/ZCN6F3FAkwsyOGU2RS/giphy.gif" width="40" /></a> -----
