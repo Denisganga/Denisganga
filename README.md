@@ -5,7 +5,7 @@
 <div align="centre">
  
 <p align="center">
-<picture><img src="logo.webp" width = 45px align="center"></picture><b></b>
+<picture><img src="./logo.webp" width = 45px align="center"></picture><b></b>
 </p>
 
 <div align="center" width="150">
