@@ -28,8 +28,15 @@
 </div>
 
 # 💫 About Me:
-Happiness😊!!<br><br><br>How happy would you be if you see the world transforming due to the power of tech??, Imagine you being part of transforming the world.<br>Isn't it sweet??<br>As a developer,I have fallen in love with the power of solving problems and being part of innovation. I'm passionate about the power of transforming lives through tech. I acquire skills in deep learning using PyTorch and creating web applications with Django. i also got a knowledge in containerized containers using docker<br>you can view my personal  [portfolio](https://denisngangaportfolio.netlify.app)<br>you can also reach me out through my [email](denisnganga16@gmail.com) or even get in touch with me through social media platform i.e [LinkedIn](https://www.linkedin.com/in/denis-nganga16) <br>Lets join hands and make the world a better place through tech. Thanks for visiting my profile.Dont forget to be part to connect with me
+Hi there! 👋 I'm a passionate Software Developer who thrives on building innovative web applications and AI solutions. Technology is my playground, and I’m always eager to explore new ways to solve real-world problems. Whether it's developing with the MERN stack or working on Django projects, I love the challenge of turning ideas into functional, impactful solutions.
 
+I believe in the power of technology to make lives easier, smarter, and more connected. Over the years, I’ve honed my skills in web development and AI, creating solutions that aren’t just theoretical but practical, solving actual challenges people face daily.
+
+One of the things that keeps me motivated is knowing that the work I do has the potential to make a difference. Whether it's improving a process, automating tasks, or building something from scratch, I’m driven by the opportunity to create something meaningful.
+
+When I'm not coding, I’m constantly learning, exploring new tech trends, and brainstorming my next project. It's all about growth for me—both professionally and personally.
+
+Let’s connect! I’m always up for a chat about technology, problem-solving, or exciting new ideas. 
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/WhKnmdHu) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/DenisNganga16) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/denis-nganga16 ) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/21966513/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/Denis-Mwangi) 
